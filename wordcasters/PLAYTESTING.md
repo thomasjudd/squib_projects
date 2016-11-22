@@ -2,25 +2,27 @@
 
 # Playtest Report Survey
 
+11/22/16
+
 ## Basic Info
-  * Num. Players:
-  * How many sessions of this game have you played before?
-  * How long did you play?
-	* How did you prepare for teaching the rules? Read the sheet with everyone there, or did someone read it ahead of time?
-	* What types of players played with you? What are their favorite games?
-	* What version were you testing?
-  * What date did you play?
+  2 players
+  played for about 5 minutes
+  taught from memory
+
 
 ## Did it work?
-  * Was there a moment that you felt the game was "broken"? Describe what happened.
-  * How close were the scores? Did everyone feel like they had a fair chance at winning?
-  * Were there any moments that you had to go back to the rules for clarification? What resulted of that - are you still unclear, or was it just a misunderstanding?
-  * Any ideas for clearer rules?
-  * Any ideas for clearer icons, artwork, in-game helps, etc?
+  letters cards are too constraining, many times the player had no card to play that would advance them towards the objective
+  having players build words off of each others cards alleviate the constraint enough
 
 ## Was it fun?
-  * Based on the description, artwork, branding, etc. was this game what you expected?
-  * Were the theme, artwork, and icons engaging?
-  * Did this game have the depth of strategy that you were expecting?
-  * What were the moments that people felt like they were having the most fun? The least fun?
-  * Assuming trivial issues are fixed, would you recommend this to someone else?
+  the game feels like it has potential to be fun, I worry that building the same "spell"(word) together takes away from the individuals feeling of casting spells
+  another theme idea that would work the same is guessing the names of all of rumplestilkskins family members before they take your kidnap your children
+
+## Proposed/Potential Improvements
+  the players felt constrained by the hand of cards they each had to work with
+  this is broken and can be fixed in a few ways
+    1.) slow down the movement speed of the enemies, increase the rate at which enemies appear
+    2.) add mechanisms to the cards to give the players something useful to do with their hand when they cant contribute to killing any of the enemies
+    3.) increase the number of letters on each card to six, to increase the likelihood that players hands will be useful
+
+  I think the best course of action would be add mechanisms to the cards as well as adding more letters to the cards
